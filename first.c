@@ -55,7 +55,6 @@ if (viem <= 0){
     printf("Dark Vador est mort\n");
 }
 	
-
 	return 0;
 	
 }}
