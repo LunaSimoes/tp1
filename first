@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int vie = 100;
+int attaque = 50;
+
+int main {
+	printf("Vos points de vie s'élèvent à %d", vie);
+
+	return 0;
+	
+}
